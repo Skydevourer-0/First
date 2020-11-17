@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\C_experiments",
+    "\\C_experiments\\ex_1",
+    "\\C_experiments\\ex_1\\include",
+    "\\C_experiments\\ex_2",
+    "\\C_experiments\\ex_2\\ex_2",
+    "\\C_experiments\\Test",
+    "\\C_experiments\\Test\\Test_1",
+    "\\C_experiments\\Test\\Test_2"
+  ],
+  "SelectedNode": "\\C_experiments\\Test\\Test_2\\TestQUEUE.lib",
+  "PreviewInSolutionExplorer": false
+}
